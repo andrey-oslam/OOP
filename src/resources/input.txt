@@ -1,0 +1,3 @@
+Lada, 10000, 30.0, 100.0, Econom;
+BMW, 25000, 25.0, 240.0, Comfort, red;
+Lexus, 20000, 40.0, 140.0, Bussnes, white, girl
