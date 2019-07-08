@@ -39,7 +39,4 @@ public class Car  {
         return "Car, " + priceOfAuto + ", " + fuelConsumption +
                 ", " + maxSpeed + ";";
     }
-    public String toFileFormat() {
-        return "Lexus, " + getPriceOfAuto() + "" + getFuelConsumption() + "" + getMaxSpeed();
-    }
 }
